@@ -1,2 +1,0 @@
-# goreto
-Android Project
